@@ -51,7 +51,7 @@ p{
 span{
     color:#4ADF86;
 }
-button{
+/*button{
     color: #D5D4D8;
     background-color: #10B981;
     padding: 6px 8px;
@@ -59,6 +59,21 @@ button{
     border-radius: 8px;
     cursor: pointer;
     transition: all .3s;
+}*/
+
+button {
+    background: #22C55E;
+    color: #04130A;
+
+    font-weight: 700;
+
+    border: none;
+
+    padding: 12px 20px;
+
+    border-radius: 8px;
+
+    cursor: pointer;
 }
 
 button:hover {
