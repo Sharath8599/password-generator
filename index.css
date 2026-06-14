@@ -10,33 +10,17 @@ body {
     justify-content: center;
     align-items: center;
 
-    /*background: linear-gradient(
-        135deg,
-        #0f172a,
-        #111827,
-        #1e293b
-    );*/
+
     background: linear-gradient(135deg,#1F2937, #4ADF86);
 }
 
-/*.hero {
-    width: 500px;
-    margin: 100px auto;
-    background: #1F2937;
-    padding: 50px;
-    border-radius: 12px;
-}*/
 .hero {
     width: 550px;
-
     background: #1f2937;
-
     padding: 50px;
-
     border-radius: 20px;
-
-    
 }
+
 h1 {
     font-family: Inter, sans-serif;
     font-size: 3rem;
@@ -45,8 +29,15 @@ h1 {
     letter-spacing: -2px;
     color: #F9FAFB;
 }
-p{
-    color: #D5D4D8;
+p {
+    font-family: Inter, sans-serif;
+    font-size: 1.05rem;
+
+    color: #B8C1CC;
+
+    max-width: 400px;
+
+    line-height: 1.7;
 }
 span{
     color:#4ADF86;
