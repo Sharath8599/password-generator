@@ -37,8 +37,13 @@ body {
 
     
 }
-h1{
-    color:white
+h1 {
+    font-family: Inter, sans-serif;
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: -2px;
+    color: #F9FAFB;
 }
 p{
     color: #D5D4D8;
